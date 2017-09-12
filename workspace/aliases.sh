@@ -83,6 +83,8 @@ alias ra="reload"
 alias reload="source ~/.aliases && echo \"$COL_GREEN ==> Aliases Reloaded... $COL_RESET \n \""
 alias run="npm run"
 alias tree="xtree"
+alias rund="npm run dev"
+alias runw="npm run watch"
 
 # requires installation of 'https://www.npmjs.com/package/npms-cli'
 alias npms="npms search"
